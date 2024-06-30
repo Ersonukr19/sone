@@ -8,7 +8,7 @@ public class HelloWorldController {
 
     @GetMapping("/helloworld")
     public String getHelloWString(){
-        return "Welcome to eruna.!!";
+        return "Welcome to eruna..!!";
     }
 
 }
