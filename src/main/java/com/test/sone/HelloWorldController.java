@@ -6,9 +6,9 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class HelloWorldController {
 
-    @GetMapping("/helloworld")
+    @GetMapping("/helloworld2")
     public String getHelloWString(){
-        return "Welcome to Eruna India.!!";
+        return "Welcome to chaina!!";
     }
 
 }
