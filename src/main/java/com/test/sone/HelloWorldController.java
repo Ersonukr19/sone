@@ -8,7 +8,7 @@ public class HelloWorldController {
 
     @GetMapping("/helloworld")
     public String getHelloWString(){
-        return "Welcome Spring_Boot Application Sonu kr";
+        return "Welcome Spring_Boot Application";
     }
 
 }
